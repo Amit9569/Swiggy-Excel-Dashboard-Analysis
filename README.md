@@ -59,12 +59,6 @@ Monitored weekly sales patterns and peak periods.
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add dashboard screenshot here)
-
----
-
 ## 🔍 Business Insights
 
 - Identified top performing cities based on sales.
